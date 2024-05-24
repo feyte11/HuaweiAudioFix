@@ -1,4 +1,4 @@
-# Huawei Matebook 14s / 16s soundcard fix for Ubuntu / Fedora / Arch
+# Huawei Matebook 14s / 16s soundcard fix for Ubuntu / Fedora / Arch / ALT Linux
 
 ## Problem
 
