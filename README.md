@@ -41,20 +41,20 @@ systemctl stop huawei-soundcard-headphones-monitor
 
 ## Environment
 
-This fix definitely works under Ubuntu 22.04 and Fedora 39 and ALT Rgular for laptop model Huawei MateBook 14s.
+This fix definitely works under Ubuntu 22.04 and Fedora 39 and ALT Linux for laptop model Huawei MateBook 14s/16s.
 
 ```bash
 $ inxi -F
 System:
-  Host: smorenbook Kernel: 5.15.0-78-generic x86_64 bits: 64
-    Desktop: GNOME 42.9 Distro: Ubuntu 22.04.3 LTS (Jammy Jellyfish)
+  Host: moist3hockey Kernel: 6.6.31-un-def-alt1 arch: x86_64 bits: 64
+  Desktop: GNOME v: 46.1 Distro: Sisyphus 20240122
 Machine:
-  Type: Laptop System: HUAWEI product: HKF-WXX v: M1010
+  Type: Laptop System: HUAWEI product: HKFG-XX v: M1010
     serial: <superuser required>
-  Mobo: HUAWEI model: HKF-WXX-PCB v: M1010 serial: <superuser required>
-    UEFI: HUAWEI v: 1.06 date: 07/22/2022
+  Mobo: HUAWEI model: HKFG-XX-PCB v: M1010 serial: <superuser required>
+    UEFI: HUAWEI v: 1.10 date: 07/26/2023
 ```
 
 ## Say thanks
 
-Thanks to [Smoren](https://github.com/Smoren)
+Thanks to [Smoren](https://github.com/Smoren) for this repo <3
