@@ -57,4 +57,4 @@ Machine:
 
 ## Say thanks
 
-Thanks to [Smoeren](https://github.com/Smoren)
+Thanks to [Smoren](https://github.com/Smoren)
