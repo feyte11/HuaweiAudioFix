@@ -54,3 +54,13 @@ Machine:
   Mobo: HUAWEI model: HKF-WXX-PCB v: M1010 serial: <superuser required>
     UEFI: HUAWEI v: 1.06 date: 07/22/2022
 ```
+
+## Say thanks
+
+If you want to thank me for this solution, you can subscribe to my [Github profile](https://github.com/Smoren) and also give stars to [my open source projects](https://github.com/Smoren?tab=repositories&q=&type=public&language=&sort=stargazers), e.g.:
+* [IterTools TS](https://github.com/Smoren/itertools-ts) — Extended itertools port for TypeScript and JavaScript. Provides a huge set of functions for working with iterable collections (including async ones).
+* [Schemator PHP](https://github.com/Smoren/schemator-php) — Schematic data mapper for converting nested data structures (any composition of associative arrays, non-associative arrays and objects) according to the given conversion schema.
+* [Encryption Tools for python](https://github.com/Smoren/encryptiontools-pypi) — Tools for encryption and decryption, signing and verification. Use symmetric and asymmetric (RSA-based) encryption.
+* [Yii2 Query Relation Manager](https://github.com/Smoren/yii2-query-relation-manager) — Implements the functionality of getting tree data from a database with one-to-one and one-to-many relationships using only one select-query to the database with flexible conditions configuration.
+* [Probability Selector PHP](https://github.com/Smoren/probability-selector-php) — Selection manager for choosing next elements to use from data source based on uniform distribution of selections.
+* [Event Router PHP](https://github.com/Smoren/event-router-php) — Router for flexible configuring of event handling behaviors.
